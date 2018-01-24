@@ -1,39 +1,50 @@
 # hw1
 ### A little text about me
-##### *Hello, my name is **Zulya**!*
+##### *Добрый день, меня зовут **Зуля**!*
 
 ![imgp0043](https://pp.userapi.com/c624923/v624923805/497e3/SvYcfRpTdWs.jpg)
 
-I used to live in a beautiful city Kazan, the capital of Tatarstan...
-But now, I study in Moscow, in [HSE](https://www.hse.ru "my university") ...
-and i live in dormitory, in Oditsovo.
+Раньше я жила в красивейшем городе Татарстана - в Казани,
+Но сейчас я учусь в Москве, в  [ВШЭ](https://www.hse.ru "my university") и живу я в общежитии, в Одинцово.
 
-my favorite colors are 
-1. purple 
-2. red
-3. black
-4. white
+**Мое расписание на третий модуль, 2018**
 
-my biggest dream is **to travel**! And i want to visit 
-* Europe 
-  - Germany 
-  - France
-* in Russia:
-  - Baikal
-  - Caliningrad
+
+**Короткая информация обо мне**
+
+Мои любимые цвета:
+1. фиолетовый 
+2. красный
+3. черный
+4. белый
+
+Самыми красивыми городами я считаю:
+* в России:
+  - Калининград
+  - Нижнекамск
+  - Тюмень
+* в Германии 
+  - Бремен 
   
- My favourite actors are 
- - Robin Williams 
-   - Adams
-   - poet
- - Leonrdo Di
-   - inception
-   - oncegybrb
-   - poimai
- - Morgan Frimen
-   - pobeg iz 
-   - poka ne 
- - Tom Hanks 
-   - big 
-   - Terminal 
+Мои любимые актеры:
+- Леонардо Ди Каприо
+  - Начало (2010)
+  - Остров проклятых (2010)
+  - Что гложет Гилберта Грейпа (1993)
+- Робин Уильямс   
+  - Целитель Адамс (1998)
+  - Общество мертвых поэтов (1989)
+- Морган Фримен 
+  - Пока не сыграл в  ящик (2007)
+- Том Хэнкс
+  - Большой (1988)
+  - Терминал (2004)
+  - Поймай меня, если сможешь (2002)
 
+Мои любимые французские фильмы:
+1. Амели (2001)
+2. 1+1 (2011)
+3. Хористы (2004)
+4. Леон (1994)
+
+А мой любиый режиссер - **Уэс Андерсон**
