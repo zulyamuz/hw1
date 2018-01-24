@@ -1,7 +1,8 @@
 # hw1
 ### A little text about me
 ##### *Hello, my name is **Zulya**!*
-![q76_7ejcc0m](https://user-images.githubusercontent.com/35367049/35192926-e05936ce-feab-11e7-8493-f47c3a7dd0ff.jpg)
+
+![imgp0043](https://pp.userapi.com/c624923/v624923805/497e3/SvYcfRpTdWs.jpg)
 
 I used to live in a beautiful city Kazan, the capital of Tatarstan...
 But now, I study in Moscow, in [HSE](https://www.hse.ru "my university") ...
